@@ -3,9 +3,38 @@
 <plist version="1.0">
 <dict>
 	<key>logFormatVersion</key>
-	<integer>9</integer>
+	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>F4FDB39B-0FB5-44B8-AB84-555882BF065B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F4FDB39B-0FB5-44B8-AB84-555882BF065B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Countrys-crnwqlmzsypuowfqvnehhxsykrbz</string>
+			<key>timeStartedRecording</key>
+			<real>610467778.02860999</real>
+			<key>timeStoppedRecording</key>
+			<real>610467780.83224797</real>
+			<key>title</key>
+			<string>Build target Countrys</string>
+			<key>uniqueIdentifier</key>
+			<string>F4FDB39B-0FB5-44B8-AB84-555882BF065B</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
