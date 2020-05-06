@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "f111bc25d75fb4e98d9f4acbf7576276"
+build_time: [1588760696, 201318000]
+inputs:
+  "/Users/Arifeen/Desktop/Countrys/Countrys/ViewController.swift": [1588760589, 544959446]
+  "/Users/Arifeen/Desktop/Countrys/Countrys/AppDelegate.swift": [1588759638, 901256044]
